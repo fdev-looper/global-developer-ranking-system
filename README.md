@@ -42,7 +42,7 @@ I am currently developing the open leaderboard where:
 
 ## Connect With Me
 
-- **GitHub**: [github.com/anujxe](https://github.com/anujxe)
+- **GitHub**: (https://github.com/fdev-looper)
 - **LinkedIn**: [linkedin.com/in/anuj-shukla-2590a3320](https://www.linkedin.com/in/anuj-shukla-2590a3320/)
 
 
