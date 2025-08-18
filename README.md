@@ -24,4 +24,14 @@ Anuj Shukla is the **first developer globally** to publicly conceptualize and la
 
 - 📂 GitHub Repo: [fdev-looper/global-developer-ranking-system](https://github.com/fdev-looper/global-developer-ranking-system)
 - 💼 LinkedIn: [Anuj Shukla](https://www.linkedin.com/in/anuj-shukla-2590a3320)
+## 💡 Mission & Vision
+
+To build a global, fun, and AI-tracked system that encourages developers to:
+
+- Showcase their journey and progress publicly
+- Participate in a universal, AI-enhanced developer ranking model
+- Get recognized for innovation, contribution, and experimentation
+- Be part of the **Verified by the Innovator** developer circle
+
+This project aims to motivate developers to track growth transparently and gamify progress in a world increasingly shaped by AI.
 
