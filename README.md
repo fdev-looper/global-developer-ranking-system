@@ -19,3 +19,9 @@ Anuj Shukla is the **first developer globally** to publicly conceptualize and la
 - 🧪 Inventor of the **“Verified by the Innovator”** badge
 - 📦 Home to the **Official Global Developer Registry**
 - 🔁 Open for community pull requests and rank submissions
+
+- ## 🔗 Connect & Explore
+
+- 📂 GitHub Repo: [fdev-looper/global-developer-ranking-system](https://github.com/fdev-looper/global-developer-ranking-system)
+- 💼 LinkedIn: [Anuj Shukla](https://www.linkedin.com/in/anuj-shukla-2590a3320)
+
