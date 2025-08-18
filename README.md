@@ -35,3 +35,32 @@ To build a global, fun, and AI-tracked system that encourages developers to:
 
 This project aims to motivate developers to track growth transparently and gamify progress in a world increasingly shaped by AI.
 
+## 📌 How to Get Ranked
+
+Want to add yourself to the leaderboard? It’s simple:
+
+1. Fork this repository
+2. Add your:
+   - Full Name
+   - Rank (self-declared or community nominated)
+   - GitHub/Twitter/LinkedIn
+   - Short reason why you deserve the spot 💪
+3. Submit a **Pull Request**
+4. Boom. You’re part of the system.
+
+---
+
+## 🧠 Final Thoughts
+
+> **Disclaimer:**  
+> This leaderboard is **not officially endorsed by any institution or AI authority**.  
+> It is a **fun, creative initiative** powered by ChatGPT references and public data.  
+> Please don’t take the ranks too seriously — instead, treat them as a **cool way to track, motivate, and inspire yourself and others** on your dev journey.
+
+---
+
+🛠 Built by **Anuj Shukla**  
+📍 Made in India | 🌍 Shared with the World  
+🧠 Powered by curiosity and AI
+
+
